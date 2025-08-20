@@ -39,4 +39,3 @@ gcc cpf_busca.c -o cpf_busca
 - Lucas Alves Antunes Almeida - RM: 566362
 - Lucca Rosseto Rezende - RM: 564180
 - Massayoshi Bando Fogaça e Silva - RM: 561779
----
