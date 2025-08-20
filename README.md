@@ -1,4 +1,4 @@
-# Algoritmos de Busca
+# Algoritmos de Busca | 12/08/2025
 
 Este diretório contém exemplos de **busca linear** e **busca binária** em C, além de um exemplo simples de busca por CPF.
 ---
