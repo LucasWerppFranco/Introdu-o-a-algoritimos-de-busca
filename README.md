@@ -26,6 +26,7 @@ gcc busca_binaria.c -o busca_binaria
 # Compilar busca de CPF
 gcc cpf_busca.c -o cpf_busca
 ./cpf_busca
+```
 ---
 # Quando usar cada técnica?
 
@@ -39,3 +40,4 @@ gcc cpf_busca.c -o cpf_busca
 - Lucas Alves Antunes Almeida - RM: 566362
 - Lucca Rosseto Rezende - RM: 564180
 - Massayoshi Bando Fogaça e Silva - RM: 561779
+---
